@@ -9,7 +9,7 @@ The tiniest Semantic URL framework for Coldfusion (Railo, Adobe, OpenBD). Semant
 (To come: Tomcat, Jetty, Nginx)
 
 # Install
-Copy the ``web.config`` file and the ``__engine`` folder into your root site folder
+Copy the ``web.config`` file and the ``__engine`` folder into your **root** site folder
 
 # How to use
 As a test open up ``http://yoursite.com/hello/cruel/semantic/world``
